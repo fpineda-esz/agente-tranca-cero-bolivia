@@ -87,6 +87,16 @@ st.markdown("""
         transform: scale(1.1);
         background-color: #A32016;
     }
+
+    /* Ocultar el menú superior derecho de Streamlit (Share, GitHub, Menú) */
+    [data-testid="stToolbar"] {
+        visibility: hidden !important;
+    }
+
+    /* Ocultar la marca de agua inferior de "Made with Streamlit" */
+    footer {
+        visibility: hidden !important;
+    }
 </style>
 
 <a href="javascript:window.location.reload();" target="_self" class="btn-flotante" title="Reiniciar Chat">🔄</a>
