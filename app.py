@@ -89,23 +89,18 @@ st.markdown("""
     }
 
     /* Ocultar el menú superior derecho de Streamlit (Share, GitHub, Menú) */
-    [data-testid="stToolbar"] {
-        visibility: hidden !important;
-    }
+    [data-testid="stToolbar"] {visibility: hidden !important;}
 
     /* Ocultar la marca de agua inferior de "Made with Streamlit" */
-    footer {
-        visibility: hidden !important;
-    }
+    footer {visibility: hidden !important;}
+
     /* Ocultar el menú de hamburguesa y las insignias flotantes de Streamlit */
     #MainMenu {visibility: hidden !important;}
     [data-testid="stViewerBadge"] {display: none !important;}
+    [data-testid="stAppDeployButton"] {display: none !important;}
 </style>
 
 <a href="javascript:window.location.reload();" target="_self" class="btn-flotante" title="Reiniciar Chat">🔄</a>
-
-
-</style>
 """, unsafe_allow_html=True)
 # ------------------------------------
 
