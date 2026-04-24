@@ -1,0 +1,55 @@
+*NOMBRE DEL TRÁMITE:
+**DUPLICADO DE CERTIFICADO DE NACIMIENTO ANTE OFICIALÍA DE REGISTRO CIVIL SRC-DCN-12
+
+*DEPENDENCIA:
+**Servicio de Registro Cívico (SERECI)
+
+*ORDEN DE GOBIERNO:
+**Central
+
+*PROPÓSITO Y CASOS DE USO:
+Es el procedimiento para la emisión de un nuevo ejemplar (duplicado) de un certificado de nacimiento que ya se encuentra debidamente registrado en el sistema.
+El ciudadano busca este trámite cuando:
+
+"Necesito una copia de mi certificado de nacimiento porque el original se extravió."
+
+"Quiero un certificado actualizado para realizar un trámite legal o escolar."
+
+"Perdí mis documentos y requiero el duplicado de mi acta de nacimiento."
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+
+REGLA DE SOLICITUD: Las personas facultadas para solicitar el duplicado son el titular, familiares directos (padre, madre, hijo/a, cónyuge, hermano/a), apoderados legales, tutores legales o representantes de casas de acogida.
+
+REGLA DE REGISTRO BIOMÉTRICO: Es requisito indispensable que el solicitante cuente con su registro previo en el Padrón Electoral Biométrico para procesar la solicitud.
+
+REGLA DE VERIFICACIÓN: El Oficial de Registro Civil (ORC) o el operador debe verificar la existencia de la partida en la base de datos del RC-BIO antes de proceder con la impresión.
+
+REGLA DE PODER: En caso de terceros que no sean familiares directos, se deberá presentar un Poder Notarial original que los faculte específicamente para este acto.
+
+*REQUISITOS OBLIGATORIOS:
+
+Cédula de Identidad original y vigente del solicitante.
+
+Documento de Identidad de Extranjero o Pasaporte (en caso de ciudadanos extranjeros).
+
+Registro biométrico previo en el sistema del SERECI.
+
+En caso de parientes: Documento que acredite el grado de consanguinidad o afinidad.
+
+En caso de apoderados: Poder Notariado original y vigente.
+
+Comprobante de pago del costo del trámite.
+
+*COSTO:
+**Variable: 33 Bs en oficinas autorizadas del SERECI; 51 Bs ante Oficialías de Registro Civil (ORC).
+
+*TIEMPO DE RESPUESTA:
+**Inmediato (Mismo día).
+
+*VIGENCIA:
+**Permanente.
+
+*Ubicación
+**Oficina Principal: 
+Panorámica s/n, El Alto, La Paz, Bolivia

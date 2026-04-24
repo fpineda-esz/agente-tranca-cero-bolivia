@@ -1,0 +1,60 @@
+*NOMBRE DEL TRÁMITE:
+**EMISIÓN DE LICENCIA DE CONDUCIR (NUEVA, RENOVACIÓN Y DUPLICADO)
+
+*DEPENDENCIA:
+**Servicio General de Identificación Personal (SEGIP) - SEGELIC
+
+*ORDEN DE GOBIERNO:
+**Central
+
+*PROPÓSITO Y CASOS DE USO:
+Es el procedimiento para obtener el documento oficial que habilita legalmente a una persona para conducir vehículos motorizados en el territorio nacional.
+El ciudadano busca este trámite cuando:
+
+"Quiero sacar mi licencia de conducir por primera vez".
+
+"Mi licencia ha caducado y necesito renovarla".
+
+"Perdí mi documento y necesito un duplicado".
+
+"Quiero ascender de categoría (ej. de Particular a Profesional)".
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+
+REGLA DE EDAD: El solicitante debe tener una edad mínima de 18 años cumplidos.
+
+REGLA DE HABILIDADES: Para licencias nuevas o ascenso de categoría, es obligatorio presentar el certificado de aprobación de examen de conducción de una escuela autorizada.
+
+REGLA DE SALUD: Se requiere un certificado médico y psicológico emitido únicamente por centros de salud acreditados por el SEGIP.
+
+REGLA DE ANTECEDENTES: Es indispensable contar con el certificado de antecedentes policiales (FELCC, FELCN y Tránsito) vigente.
+
+REGLA DE IDENTIDAD: El solicitante debe contar con su Cédula de Identidad vigente y estar registrado en el sistema biométrico.
+
+*REQUISITOS OBLIGATORIOS:
+
+Cédula de Identidad original vigente.
+
+Certificado de Habilidades de Conducir (para trámites nuevos o ascenso).
+
+Certificado Médico de aptitud física y mental (original).
+
+Certificado de Antecedentes Policiales (CUDAP - unificado).
+
+Certificado Psicológico (específicamente para categorías profesionales o cambios).
+
+Constancia de depósito bancario original realizada en entidades financieras autorizadas (Banco Unión).
+
+*COSTO:
+**Fijo: 225 Bs (Trámite nuevo/renovación todas las categorías); 160 Bs (Duplicados).
+Nota: Los certificados de antecedentes y médicos tienen costos adicionales pagados en sus respectivas instituciones.
+
+*TIEMPO DE RESPUESTA:
+**Mismo día (entrega inmediata tras validación de requisitos).
+
+*VIGENCIA:
+**5 años (Generalmente, según normativa vigente de licencias nacionales).
+
+*Ubicación
+**Oficinas del SEGIP/SEGELIC a nivel nacional:
+Av. Juan Pablo II, El Alto; Sopocachi, La Paz; Megacenter, Irpavi

@@ -1,0 +1,51 @@
+*NOMBRE DEL TRÁMITE: 
+**INSCRIPCIÓN DE NACIMIENTO DE 0-12 AÑOS ANTE OFICIAL DE REGISTRO CIVIL 
+
+*DEPENDENCIA: 
+**Servicio de Registro Cívico (SERECI)
+
+*ORDEN DE GOBIERNO: 
+**Central
+
+*PROPÓSITO Y CASOS DE USO:
+Es un procedimiento para obtener la inscripción de nacimiento ante el registro civil para menores de 0 a 12 años.
+El ciudadano busca este trámite cuando:
+- "Quiero registrar a mi hijo en el registro civil"
+- "Si no he registrado a mis hijo o hija, ¿qué debo de hacer?"
+- "¿Cómo puedo registrar a un menor de edad?"
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- REGLA DE PRESENTACIÓN DE LOS PADRES: Si quienes solicitan la inscripción del nacimiento son los padres o parientes y no poseen los documentos anteriormente señalados, podrán presentar la declaración de dos testigos mayores de edad debidamente identificados, para acreditar su identidad y su relación de parentesco con el niño o la niña. La declaración debe ser tomada por el ORC de manera solemne, quién de forma gratuita debe llenar y firmar el acta respectiva junto con los testigos.
+- REGLA DE TESTIGOS: 3: Para realizar la inscripción de nacimiento se requiere la presencia de dos testigos mayores de edad.
+a) Tutor: Con cédula de identidad, sentencia u orden judicial que lo designa como tutor que demuestre el interés legítimo y prueba de nacimiento de la niña o el niño.
+b) Parientes hasta el tercer grado de consanguineidad.
+c) Autoridades municipales, eclesiásticas, administrativas y judiciales; organizaciones comunitarias
+d) Directores de casas de acogida y fundaciones
+
+*REQUISITOS OBLIGATORIOS:
+1. Sentencia Judicial que declara la paternidad y/o maternidad 
+2. Sentencia Judicial que declara la posesión de estado 
+3. Inscripción de nacimiento generado por RC-BIO 
+4. Libreta Familiar de los padres 
+5. Memorándum de designación que demuestre el interés legítimo 
+6. Orden Judicial designado como tutor
+7. Personería jurídica de la casa de acogida 
+8. Resolución Judicial que indique que la misma se encargará de la inscripción que demuestre el interés legítimo de registro del menor 
+9. Cédula de Identidad Tutor 
+10. Certificado de Matrimonio Civil
+11. Certificado de nacimiento gratuito emitido por el ORC 
+12.Certificado médico de nacido vivo 
+13. Documentos de reconocimiento de hijo otorgado a padres
+
+*COSTO:
+**Fijo: 34 Bs en ventanilla
+
+*TIEMPO DE RESPUESTA:
+**Mismo día.
+
+*VIGENCIA:
+**Permanente.
+
+*Ubicación
+**Oficina Principal: 
+Panorámica s/n, El Alto, La Paz, Bolivia

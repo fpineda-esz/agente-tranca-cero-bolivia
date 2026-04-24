@@ -1,0 +1,62 @@
+*NOMBRE DEL TRÁMITE:
+**SOLICITUD DE LICENCIA DE FUNCIONAMIENTO PARA ACTIVIDADES EN GENERAL (COMERCIO Y SERVICIO) SIN INSPECCIÓN
+
+*DEPENDENCIA:
+**Gobierno Autónomo Municipal de La Paz (GAMLP)
+
+*ORDEN DE GOBIERNO:
+**Municipal
+
+*PROPÓSITO Y CASOS DE USO:
+Es el documento otorgado por el municipio que autoriza el funcionamiento legal de actividades económicas de comercio y servicio que, por su naturaleza, no requieren una inspección técnica previa para su apertura.
+El ciudadano busca este trámite cuando:
+
+"Quiero abrir una tienda de ropa o un comercio minorista en La Paz".
+
+"Necesito formalizar mi oficina de servicios profesionales ante la alcaldía".
+
+"Voy a iniciar un negocio que no maneja productos peligrosos ni requiere supervisión técnica inmediata".
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+
+REGLA DE ACCESO DIGITAL: El solicitante debe contar obligatoriamente con el Registro Ciudadano en la plataforma iGob 24/7 para gestionar el trámite.
+
+REGLA DE MULTISERVICIOS: Si se desarrollan varias actividades en un mismo inmueble y pertenecen al mismo dueño, se debe tramitar como "Multiservicios", detallando cada rubro.
+
+REGLA DE OBLIGACIÓN TRIBUTARIA: Aunque la obtención de la licencia es gratuita, el titular queda obligado al pago anual de la Patente de Funcionamiento.
+
+REGLA AMBIENTAL: Las actividades de tipo industrial manufactureras deben contar adicionalmente con Registro Ambiental (RAI) y Certificación Acústica.
+
+*REQUISITOS OBLIGATORIOS:
+Para Persona Natural:
+
+Contar con Registro Ciudadano y acceso a la plataforma iGob 24/7.
+
+Fotografía del elemento de identificación (letrero/VIAE) con sus medidas en metros.
+
+Fotografía del frontis del inmueble donde operará la actividad.
+
+NIT o inscripción al Régimen Simplificado (Requisito opcional).
+
+Para Persona Jurídica:
+
+Registro de Persona Jurídica en iGob 24/7.
+
+Testimonio de Constitución de Sociedad y Matrícula de Comercio (SEPREC).
+
+Poder de Representación Legal y registro del representante como persona natural en iGob 24/7.
+
+NIT de la empresa.
+
+*COSTO:
+**Trámite gratuito (0 Bs).
+
+*TIEMPO DE RESPUESTA:
+**De 2 a 3 días hábiles (tras la verificación de documentos).
+
+*VIGENCIA:
+**Permanente (sujeta al cumplimiento de normas municipales y pago de patentes).
+
+*Ubicación
+**Oficina Virtual: Plataforma iGob 24/7 (https://igob247.lapaz.bo/).
+**Plataformas Presenciales (PIAC): Miraflores (Torre Espra), Camacho (Mercado Camacho), y Zona Sur (Edificio Atlanta).

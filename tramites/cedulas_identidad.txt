@@ -1,0 +1,46 @@
+*NOMBRE DEL TRÁMITE: 
+**Cédulas de Identidad
+
+*DEPENDENCIA: 
+**Servicio General de Identificación Personal (SEGIP)
+
+*ORDEN DE GOBIERNO: 
+**Central
+
+*PROPÓSITO Y CASOS DE USO:
+Es un procedimiento para obtener la cédula de identidad boliviana para mayores y menores de 18 años ya sea por primera vez o por renovación/reposición.
+El ciudadano busca este trámite cuando:
+- "Quiero obtener o sacar mi cédula de identidad"
+- "Si ya tengo 18 años, ¿cómo obtengo mi cédula de identidad?"
+- "Extravié mi cédula de identificación y necesito reponerla"
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+- REGLA DE MAYORÍA DE EDAD: Si es mayor de edad se requieren los requisitos base, pero si es menor de edad se requiere que acuda uno de los progenitores y el menor de manera física al procedimiento y no se requiere la certificación de SERECI ni la resolución administrativa de nueva inscripción.
+- REGLA DE RENOVACIÓN: Si va a renovar o reponer su cédula solo se debe hacer el pago correspondiente especificando que es para el SGIP y acudir a las ventanillas a recoger su renovación, si es por primera vez se piden los requisitos base.
+
+
+*REQUISITOS OBLIGATORIOS:
+1. Certificado de nacimiento.
+2. Depósito Bancario (especificar que es el pago a el SEGIP).
+3. Certificación de partida única vigente que emite el SERECI.
+4. Resolución administrativa de nueva inscripción.
+
+*COSTO:
+**Fijo: 17 Bs (Primera vez), 50 Bs (renovación/reposición)
+
+*TIEMPO DE RESPUESTA:
+**Mismo día.
+
+*VIGENCIA:
+**10 años (físico) y 1 año en digital.
+
+*Ubicación
+**Oficina Principal: 
+Pedro Salazar N° 607, entre Andrés Muñoz y Presbítero Medina, Zona Sopocachi, La Paz.
+
+**Oficinas Alternas: 
+La Paz - Zona Sur: Oficina en el MegaCenter (Av. Rafael Pabón #656).
+La Paz - Miraflores: Oficina Plaza Villarroel, dentro de la estación de la Línea Blanca del Teleférico.
+La Paz - Sopocachi: Calle Pedro Salazar N° 607, entre Andrés Muñoz y Presbítero Medina.
+Santa Cruz: Oficina en el Centro Comercial Nuevo Mutualista (Segundo Anillo, Calle Combate Ríosino esq. Av. San Aurelio).
+Sucre: Av. 6 de Agosto esquina Melchor Pérez de Olguin, zona El Rollo “Yura Yura”.

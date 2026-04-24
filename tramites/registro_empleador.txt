@@ -1,0 +1,63 @@
+*NOMBRE DEL TRÁMITE:
+**REGISTRO EMPLEADOR
+
+*DEPENDENCIA:
+**Gestora Pública de la Seguridad Social de Largo Plazo (GESTORA)
+
+*ORDEN DE GOBIERNO:
+**Central
+
+*PROPÓSITO Y CASOS DE USO:
+Es el proceso que se realiza para registrar formalmente al empleador en el sistema de seguridad social de largo plazo para el cumplimiento de sus obligaciones legales.
+El ciudadano busca este trámite cuando:
+
+"Quiero registrar a mi empresa como empleadora ante la Gestora."
+
+"Necesito obtener las credenciales de acceso para la oficina virtual Ge-SIP."
+
+"Debo dar de alta mi emprendimiento para realizar los aportes de mis trabajadores."
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+
+REGLA DE CANAL DE ATENCIÓN: El trámite puede iniciarse de manera presencial en las plataformas de atención al cliente a nivel nacional o vía Oficina Virtual.
+
+REGLA DE REPRESENTACIÓN: En caso de que el trámite no sea realizado por el Representante Legal, se debe presentar el poder correspondiente que faculte al tercero.
+
+REGLA DE IDENTIFICACIÓN: Es obligatorio el uso del sello de la empresa en la documentación presentada.
+
+REGLA DE ACCESO VIRTUAL: Una vez completado el registro, el empleador debe gestionar su usuario y contraseña para acceder a los servicios habilitados en la plataforma Ge-SIP.
+
+*REQUISITOS OBLIGATORIOS:
+
+Fotocopia del Documento de Identidad del Representante Legal.
+
+Fotocopia de Matrícula de Comercio vigente (SEPREC o FUNDEEMPRESA).
+
+Fotocopia de NIT de exposición.
+
+Fotocopia del Certificado de Inscripción de Impuestos Nacionales (o Clasificador SIGMA para empresas públicas).
+
+Croquis de ubicación de la empresa (manual o captura de pantalla).
+
+Fotocopia de Poder, Testimonio o Resolución de designación del Representante Legal o MAE.
+
+Fotocopia de Poder de la persona que realiza el trámite (si no es el representante legal).
+
+Sello de la Empresa.
+
+*COSTO:
+**No especificado en el portal (Trámite administrativo).
+
+*TIEMPO DE RESPUESTA:
+**Sujeto a verificación administrativa y entrega de credenciales.
+
+*VIGENCIA:
+**Permanente (mientras se mantenga la actividad económica).
+
+*Ubicación
+**Oficinas Central: 
+Torre Oeste, Calle Reyes Ortiz,Edificio Gundlach, Bolivia
+**Oficinas Alternas:
+Calle AntezaCalle Antezana # 545, Paccieri y, Cochabambana # 545, Paccieri y, Cochabamba, Bolivia
+Sol de Grecia, Beni 365, Cochabamba, Bolivia
+Héroes de Boquerón 1592, Cochabamba, Bolivia

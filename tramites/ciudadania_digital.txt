@@ -1,0 +1,53 @@
+*NOMBRE DEL TRÁMITE:
+**REGISTRO EN CIUDADANÍA DIGITAL
+
+*DEPENDENCIA:
+**Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación (AGETIC)
+
+*ORDEN DE GOBIERNO:
+**Central
+
+*PROPÓSITO Y CASOS DE USO:
+Es el proceso para obtener la identidad digital que permite a las y los ciudadanos bolivianos interactuar con el Estado, realizar trámites en línea, recibir notificaciones electrónicas y aprobar documentos con validez jurídica.
+El ciudadano busca este trámite cuando:
+
+"Necesito mi identidad digital para realizar trámites del Estado por internet".
+
+"Quiero acceder a mis expedientes judiciales o memoriales de forma electrónica".
+
+"Deseo recibir notificaciones oficiales de las entidades públicas en mi cuenta digital".
+
+*REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
+
+REGLA DE MODALIDAD: El trámite se inicia mediante un pre-registro virtual y puede finalizarse de manera remota (videollamada) o presencial en puntos autorizados.
+
+REGLA DE VALIDACIÓN SEGIP: Todos los datos personales ingresados son verificados automáticamente con la base de datos del Servicio General de Identificación Personal (SEGIP).
+
+REGLA DE SEGURIDAD BIOMÉTRICA: Para el registro remoto, es obligatorio subir fotografías de la Cédula de Identidad (anverso y reverso) y una "selfie" sosteniendo el documento para validar la identidad del solicitante.
+
+REGLA DE ACTIVACIÓN: El registro solo es válido una vez que el usuario activa su cuenta mediante el enlace enviado a su correo electrónico personal tras la validación del operador.
+
+*REQUISITOS OBLIGATORIOS:
+
+Cédula de Identidad original y vigente (boliviana o de extranjero).
+
+Número de teléfono celular personal activo (nacional o extranjero).
+
+Dirección de correo electrónico personal de uso frecuente.
+
+Dispositivo con acceso a internet y cámara web (para la modalidad virtual).
+
+Creación de una contraseña segura que cumpla con los estándares del sistema.
+
+*COSTO:
+**Trámite gratuito (0 Bs).
+
+*TIEMPO DE RESPUESTA:
+**Inmediato tras la validación exitosa del operador en videollamada o punto presencial.
+
+*VIGENCIA:
+**Permanente.
+
+*Ubicación
+**Oficina Virtual: Plataforma Ciudadanía Digital (https://ciudadaniadigital.bo).
+**Oficina Central: Sopocachi, Calle Pedro Salazar N° 631, esquina Andrés Muñoz.
