@@ -97,6 +97,9 @@ st.markdown("""
     footer {
         visibility: hidden !important;
     }
+    /* Ocultar el menú de hamburguesa y las insignias flotantes de Streamlit */
+    #MainMenu {visibility: hidden !important;}
+    [data-testid="stViewerBadge"] {display: none !important;}
 </style>
 
 <a href="javascript:window.location.reload();" target="_self" class="btn-flotante" title="Reiniciar Chat">🔄</a>
