@@ -10,12 +10,10 @@
 *PROPÓSITO Y CASOS DE USO:
 Es el documento otorgado por el municipio que autoriza el funcionamiento legal de actividades económicas de comercio y servicio que, por su naturaleza, no requieren una inspección técnica previa para su apertura.
 El ciudadano busca este trámite cuando:
-
 "Quiero abrir una tienda de ropa o un comercio minorista en La Paz".
-
 "Necesito formalizar mi oficina de servicios profesionales ante la alcaldía".
-
 "Voy a iniciar un negocio que no maneja productos peligrosos ni requiere supervisión técnica inmediata".
+"Quiero abrir un restaurante pequeño que no venderá alcohol".
 
 *REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
 
