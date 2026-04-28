@@ -1,3 +1,4 @@
+import time
 import streamlit as st
 import os
 from dotenv import load_dotenv
@@ -87,20 +88,10 @@ st.markdown("""
         transform: scale(1.1);
         background-color: #A32016;
     }
-
-    /* Ocultar el menú superior derecho de Streamlit (Share, GitHub, Menú) */
-    [data-testid="stToolbar"] {visibility: hidden !important;}
-
-    /* Ocultar la marca de agua inferior de "Made with Streamlit" */
-    footer {visibility: hidden !important;}
-
-    /* Ocultar el menú de hamburguesa y las insignias flotantes de Streamlit */
-    #MainMenu {visibility: hidden !important;}
-    [data-testid="stViewerBadge"] {display: none !important;}
-    [data-testid="stAppDeployButton"] {display: none !important;}
 </style>
 
 <a href="javascript:window.location.reload();" target="_self" class="btn-flotante" title="Reiniciar Chat">🔄</a>
+
 """, unsafe_allow_html=True)
 # ------------------------------------
 
@@ -156,12 +147,27 @@ if consulta_final:
                 # 2. Los convertimos en texto simple (que es lo que tu bot espera)
                 historial_corto = "\n".join([f"{m['rol']}: {m['contenido']}" for m in ultimos_mensajes])
                 
-                # 3. Llamamos al agente con esta memoria "limpia"
-                respuesta = st.session_state.agente.invoke({
-                    "question": consulta_final, 
-                    "chat_history": historial_corto
-                })
-                # --- FIN DEL AJUSTE ---
+                # --- RUTINA DE REINTENTO AUTOMÁTICO SILENCIOSO ---
+                max_intentos = 3 # Cuántas veces intentará conectarse sin decirle al usuario
+                    
+                for intento in range(max_intentos):
+                        try:
+                            # Intenta hacer la consulta
+                            respuesta = st.session_state.agente.invoke({
+                                "question": consulta_final, 
+                                "chat_history": historial_corto
+                            })
+                            break  # Si tiene éxito, rompe el ciclo de reintentos y avanza
+                            
+                        except Exception as e:
+                            if intento < max_intentos - 1:
+                                # Si falla pero aún le quedan intentos, espera 2 segundos y reintenta
+                                time.sleep(2)
+                                continue
+                            else:
+                                # Si ya agotó los 3 intentos, manda el mensaje de error amable
+                                respuesta = "El sistema de consulta está experimentando una demora inusual. Por favor, intenta enviar tu mensaje nuevamente en unos segundos."
+                    # ---------------------------------------------------
             else:
                 respuesta = "Aún no tengo documentos en mi base de datos."
             st.markdown(f"<span class='marca-agente'></span> {respuesta}", unsafe_allow_html=True)
