@@ -28,25 +28,25 @@ REGLA DE OBLIGACIÓN TRIBUTARIA: Aunque la obtención de la licencia es gratuita
 REGLA AMBIENTAL: Las actividades de tipo industrial manufactureras deben contar adicionalmente con Registro Ambiental (RAI) y Certificación Acústica.
 
 *REQUISITOS OBLIGATORIOS:
-Para Persona Natural:
+**Para Persona Natural:
 
-Contar con Registro Ciudadano y acceso a la plataforma iGob 24/7.
+1. Contar con Registro Ciudadano y acceso a la plataforma iGob 24/7.
 
-Fotografía del elemento de identificación (letrero/VIAE) con sus medidas en metros.
+2. Fotografía del elemento de identificación (letrero/VIAE) con sus medidas en metros.
 
-Fotografía del frontis del inmueble donde operará la actividad.
+3. Fotografía del frontis del inmueble donde operará la actividad.
 
-NIT o inscripción al Régimen Simplificado (Requisito opcional).
+4. NIT o inscripción al Régimen Simplificado (Requisito opcional).
 
-Para Persona Jurídica:
+**Para Persona Jurídica:
 
-Registro de Persona Jurídica en iGob 24/7.
+1.Registro de Persona Jurídica en iGob 24/7.
 
-Testimonio de Constitución de Sociedad y Matrícula de Comercio (SEPREC).
+2. Testimonio de Constitución de Sociedad y Matrícula de Comercio (SEPREC).
 
-Poder de Representación Legal y registro del representante como persona natural en iGob 24/7.
+3. Poder de Representación Legal y registro del representante como persona natural en iGob 24/7.
 
-NIT de la empresa.
+4. NIT de la empresa.
 
 *COSTO:
 **Trámite gratuito (0 Bs).
