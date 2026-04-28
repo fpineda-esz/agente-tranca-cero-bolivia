@@ -16,6 +16,7 @@ El ciudadano busca este trámite cuando:
 
 *REGLAS DE DIAGNÓSTICO Y DEPENDENCIAS:
 - REGLA DE MAYORÍA DE EDAD: Si es mayor de edad se requieren los requisitos base, pero si es menor de edad se requiere que acuda uno de los progenitores y el menor de manera física al procedimiento y no se requiere la certificación de SERECI ni la resolución administrativa de nueva inscripción.
+-REGLA DE LA PRIMERA VEZ: Si es la primera vez setienen que presentar todos los requisito listados abajo; identifica que puede ser primera vez de mayor de edad o menor de edad.
 - REGLA DE RENOVACIÓN: Si va a renovar o reponer su cédula solo se debe hacer el pago correspondiente especificando que es para el SGIP y acudir a las ventanillas a recoger su renovación, si es por primera vez se piden los requisitos base.
 
 
